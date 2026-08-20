@@ -46,8 +46,8 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushshendeexe&show_icons=true&theme=radical)
+### 📊 GitHub Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushshendeexe&theme=radical)
 
 ---
 
