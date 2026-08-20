@@ -18,6 +18,19 @@
 
 ---
 
+---
+---
+### 🧠 Practice Platforms
+<p align="left">
+  <a href="https://tryhackme.com/p/hackbytes" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" />
+  </a>
+  <a href="https://profile.hackthebox.com/profile/019d291e-68b9-71a8-8fad-bbafa85ce0fe" target="_blank">
+    <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" />
+  </a>
+
+---
+
 ### 🛠️ Skills & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
