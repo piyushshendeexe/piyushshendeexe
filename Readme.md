@@ -60,11 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushshendeexe&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-shende-631775337" target="_blank">
