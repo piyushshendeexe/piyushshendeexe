@@ -18,8 +18,6 @@
 
 ---
 
----
----
 ### 🧠 Practice Platforms
 <p align="left">
   <a href="https://tryhackme.com/p/hackbytes" target="_blank">
