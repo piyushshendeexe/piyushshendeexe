@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush (hackbytes)</h1>
-<h3 align="center">🔐 Offensive Security Enthusiast | Bug Bounty Hunter | CTF Player</h3>
+<h3 align="center">🔐 Offensive Security Enthusiast | CTF Player</h3>
 
 ---
 
