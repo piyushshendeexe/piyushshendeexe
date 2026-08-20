@@ -46,10 +46,6 @@
 
 ---
 
-### 📊 GitHub Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushshendeexe&theme=radical)
-
----
 
 ### 📫 Connect With Me
 <p align="left">
