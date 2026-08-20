@@ -24,7 +24,7 @@
   <a href="https://tryhackme.com/p/hackbytes" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="[https://profile.hackthebox.com/profile/019d291e-68b9-71a8-8fad-bbafa85ce0fe](https://profile.hackthebox.com/profile/019d291e-68b9-71a8-8fad-bbafa85ce0fe?utm_medium=copy_url)" target="_blank">
+  <a href="https://profile.hackthebox.com/profile/019d291e-68b9-71a8-8fad-bbafa85ce0fe" target="_blank">
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" />
   </a>
 </p>
