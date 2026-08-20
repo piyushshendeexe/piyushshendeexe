@@ -42,6 +42,7 @@
 
 ### 🎯 Featured Work
 - **XSS Vulnerability Disclosure — arizonatools.com** (Report ID: OBB-4592015) — CVSS 6.1 (CWE-79) — Coordinated disclosure via Open Bug Bounty, verified & patched — May 2026
+- https://www.openbugbounty.org/reports/4592015/
 
 ---
 
