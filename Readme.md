@@ -7,7 +7,8 @@
 - 🎓 Final-year Electrical Engineering student at GH Raisoni College of Engineering, Nagpur
 - 🛡️ Focused on Ethical Hacking, Penetration Testing & Bug Bounty Hunting
 - 🐧 Daily driver: Kali Linux
-- 📫 Reach me: www.linkedin.com/in/piyush-shende-631775337 | https://hashnode.com/@hackbyte
+- 📫 Reach me: www.linkedin.com/in/piyush-shende-631775337 | https://www.instagram.com/chaitanyaa.exe/
+- - ✍️ Blog: https://hashnode.com/@hackbyte
 
 ---
 
