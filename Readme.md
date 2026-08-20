@@ -7,13 +7,13 @@
 - 🎓 Final-year Electrical Engineering student at GH Raisoni College of Engineering, Nagpur
 - 🛡️ Focused on Ethical Hacking, Penetration Testing & Bug Bounty Hunting
 - 🐧 Daily driver: Kali Linux
-- 📫 Reach me: www.linkedin.com/in/piyush-shende-631775337 | https://www.instagram.com/chaitanyaa.exe/
-- - ✍️ Blog: https://hashnode.com/@hackbyte
+- 📫 LinkedIn: [www.linkedin.com/in/piyush-shende-631775337](https://www.linkedin.com/in/piyush-shende-631775337)
+- ✍️ Blog: https://hashnode.com/@hackbyte
 
 ---
 
 ### 🚧 Currently Working On
-- 🏁 Practicing CTFs (UNI6CTF, CTF7) — Web, stegno , DFIR, OSINT
+- 🏁 Practicing CTFs (UNI6CTF, CTF7) — Web, Stegano, DFIR, OSINT
 - 🧰 Learning & building Python security projects (OSINT, recon, scanning modules)
 - 📚 Progressing towards CEH & eJPT certifications
 
@@ -27,6 +27,9 @@
   <a href="https://profile.hackthebox.com/profile/019d291e-68b9-71a8-8fad-bbafa85ce0fe" target="_blank">
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" />
   </a>
+</p>
+
+*TryHackMe: Top 2% ranked*
 
 ---
 
@@ -45,19 +48,22 @@
 
 ### 🏆 Certifications
 - **CSEDP (Certified Social Engineering Defense Practitioner)** — The SecOps Group — Merit Grade
-- **NPTEL Ethical Hacking** — IIT Kanpur 
+- **NPTEL Ethical Hacking** — IIT Kanpur
 - **Pre Security** — TryHackMe
-- **Introduction to Web Hacking** — TryHackMe 
-- **SQL Injection** — Code Red (EC-Council) 
+- **Introduction to Web Hacking** — TryHackMe
+- **SQL Injection** — Code Red (EC-Council)
 
 ---
 
 ### 🎯 Featured Work
-- **XSS Vulnerability Disclosure — arizonatools.com** (Report ID: OBB-4592015) — CVSS 6.1 (CWE-79) — Coordinated disclosure via Open Bug Bounty, verified & patched — May 2026
-- https://www.openbugbounty.org/reports/4592015/
+- **XSS Vulnerability Disclosure — arizonatools.com** (Report ID: OBB-4592015) — CVSS 6.1 (CWE-79) — Coordinated disclosure via Open Bug Bounty, verified & patched — May 2026 — [View Report](https://www.openbugbounty.org/reports/4592015/)
 
 ---
 
+### 📊 GitHub Stats
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushshendeexe&show_icons=true&theme=radical)
+
+---
 
 ### 📫 Connect With Me
 <p align="left">
@@ -70,3 +76,4 @@
   <a href="mailto:shendepiyush2006@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
