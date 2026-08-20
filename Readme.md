@@ -54,6 +54,10 @@
 - **SQL Injection** — Code Red (EC-Council)
 
 ---
+### 🥇 Achievements
+- 🏆 Ranked **#1** at **EncipherX 3.0 CTF** (2025)
+
+--- 
 
 ### 🎯 Featured Work
 - **XSS Vulnerability Disclosure — arizonatools.com** (Report ID: OBB-4592015) — CVSS 6.1 (CWE-79) — Coordinated disclosure via Open Bug Bounty, verified & patched — May 2026 — [View Report](https://www.openbugbounty.org/reports/4592015/)
