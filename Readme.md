@@ -8,7 +8,7 @@
 - 🛡️ Focused on Ethical Hacking, Penetration Testing & Bug Bounty Hunting
 - 🐧 Daily driver: Kali Linux
 - 📫 LinkedIn: [www.linkedin.com/in/piyush-shende-631775337](https://www.linkedin.com/in/piyush-shende-631775337)
-- ✍️ Blog: https://hashnode.com/@hackbyte
+- ✍️ Blog: https://hashnode.com/@hackbyte | Medium: https://medium.com/@shendepiyush2006
 
 ---
 
