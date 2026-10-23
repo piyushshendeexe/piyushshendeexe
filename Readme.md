@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush (hackbytes)</h1>
 <h3 align="center">🔐 Offensive Security Enthusiast | CTF Player</h3>
-
+---
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=piyushshendeexe&theme=dracula&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85383723%3Fu%3Dce9bade2ab6ae5db38280292c2036effdef46c20%26v%3D4&v=showcase-wordmark-2" alt="hackbytes wordmark visual" />
+</p>
 ---
 
 ### 🧑‍💻 About Me
